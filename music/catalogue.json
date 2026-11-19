@@ -1,0 +1,207 @@
+{
+ "tracks": [
+  {
+   "id": "desi_trap",
+   "name": "Desi Trap",
+   "mood": "Trap",
+   "file": "music/desi_trap.ogg",
+   "sec": 50,
+   "regions": [
+    "IN"
+   ],
+   "trend": 1
+  },
+  {
+   "id": "baraat_beat",
+   "name": "Baraat Beat",
+   "mood": "Dhol",
+   "file": "music/baraat_beat.ogg",
+   "sec": 61,
+   "regions": [
+    "IN"
+   ],
+   "trend": 2
+  },
+  {
+   "id": "night_phonk",
+   "name": "Night Phonk",
+   "mood": "Phonk",
+   "file": "music/night_phonk.ogg",
+   "sec": 54,
+   "regions": [
+    "*"
+   ],
+   "trend": 3
+  },
+  {
+   "id": "punjabi_swag",
+   "name": "Punjabi Swag",
+   "mood": "Punjabi",
+   "file": "music/punjabi_swag.ogg",
+   "sec": 74,
+   "regions": [
+    "IN"
+   ],
+   "trend": 4
+  },
+  {
+   "id": "summer_pop",
+   "name": "Summer Pop",
+   "mood": "Bright",
+   "file": "music/summer_pop.ogg",
+   "sec": 65,
+   "regions": [
+    "*"
+   ],
+   "trend": 5
+  },
+  {
+   "id": "festival_lights",
+   "name": "Festival Lights",
+   "mood": "Festive",
+   "file": "music/festival_lights.ogg",
+   "sec": 69,
+   "regions": [
+    "IN"
+   ],
+   "trend": 6
+  },
+  {
+   "id": "future_lift",
+   "name": "Future Lift",
+   "mood": "EDM",
+   "file": "music/future_lift.ogg",
+   "sec": 57,
+   "regions": [
+    "*"
+   ],
+   "trend": 7
+  },
+  {
+   "id": "lofi_rain",
+   "name": "Lo-fi Rain",
+   "mood": "Chill",
+   "file": "music/lofi_rain.ogg",
+   "sec": 80,
+   "regions": [
+    "*"
+   ],
+   "trend": 8
+  },
+  {
+   "id": "desi_lofi",
+   "name": "Desi Lo-fi",
+   "mood": "Chill",
+   "file": "music/desi_lofi.ogg",
+   "sec": 88,
+   "regions": [
+    "IN"
+   ],
+   "trend": 0
+  },
+  {
+   "id": "gym_power",
+   "name": "Gym Power",
+   "mood": "Workout",
+   "file": "music/gym_power.ogg",
+   "sec": 49,
+   "regions": [
+    "*"
+   ],
+   "trend": 0
+  },
+  {
+   "id": "vlog_bounce",
+   "name": "Vlog Bounce",
+   "mood": "Happy",
+   "file": "music/vlog_bounce.ogg",
+   "sec": 69,
+   "regions": [
+    "*"
+   ],
+   "trend": 0
+  },
+  {
+   "id": "retro_drive",
+   "name": "Retro Drive",
+   "mood": "Synthwave",
+   "file": "music/retro_drive.ogg",
+   "sec": 64,
+   "regions": [
+    "*"
+   ],
+   "trend": 0
+  },
+  {
+   "id": "street_boom_bap",
+   "name": "Street Boom Bap",
+   "mood": "Hip-hop",
+   "file": "music/street_boom_bap.ogg",
+   "sec": 86,
+   "regions": [
+    "US",
+    "GB",
+    "CA",
+    "AU"
+   ],
+   "trend": 1
+  },
+  {
+   "id": "cinematic_rise",
+   "name": "Cinematic Rise",
+   "mood": "Epic",
+   "file": "music/cinematic_rise.ogg",
+   "sec": 84,
+   "regions": [
+    "*"
+   ],
+   "trend": 0
+  },
+  {
+   "id": "baile_heat",
+   "name": "Baile Heat",
+   "mood": "Funk",
+   "file": "music/baile_heat.ogg",
+   "sec": 58,
+   "regions": [
+    "BR",
+    "PT"
+   ],
+   "trend": 1
+  },
+  {
+   "id": "dembow_sun",
+   "name": "Dembow Sun",
+   "mood": "Latin",
+   "file": "music/dembow_sun.ogg",
+   "sec": 78,
+   "regions": [
+    "MX",
+    "CO",
+    "AR",
+    "ES",
+    "CL",
+    "PE",
+    "DO",
+    "PR"
+   ],
+   "trend": 1
+  },
+  {
+   "id": "afro_groove",
+   "name": "Afro Groove",
+   "mood": "Afrobeat",
+   "file": "music/afro_groove.ogg",
+   "sec": 72,
+   "regions": [
+    "NG",
+    "GH",
+    "KE",
+    "ZA",
+    "TZ",
+    "UG"
+   ],
+   "trend": 1
+  }
+ ]
+}
